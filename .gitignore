@@ -1,0 +1,5 @@
+introducaoautomacaoweb/venv/
+temporario/.idea/
+temporario/.pytest_cache/
+temporario/__pycache__/
+temporario/venv/
